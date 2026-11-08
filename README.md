@@ -64,7 +64,7 @@ O que mais me move é transformar um problema complexo em uma arquitetura simple
 
 ---
 
-## 🚀 Projetos que mostram na prática
+## 🚀 Principais projetos
 
 ### [Domus Platform](https://github.com/Emersondll/Domus-platform)
 Plataforma de **portaria virtual multicondomínio**, para empresas que operam a portaria remota de vários condomínios. Ela reúne atendimento e controle de acesso, visitantes, encomendas, reservas, notificações e um agente local que mantém o condomínio funcionando mesmo sem internet.
@@ -86,7 +86,7 @@ Desafios técnicos de pagamentos resolvidos em Java com Spring Boot: [card-trans
 
 ---
 
-## 🎯 Como eu trabalho
+## 🎯 Modo de atuação
 
 - **Decisões registradas:** uso ADRs para documentar o que foi escolhido, o que foi descartado e por quê.
 - **Segurança e privacidade desde o início:** são requisitos de projeto, não remendos.
