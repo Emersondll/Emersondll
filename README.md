@@ -10,24 +10,12 @@
 
 ## 👨‍💻 Sobre mim
 
-Há mais de 7 anos eu projeto e desenvolvo **sistemas escaláveis e de alta performance** para empresas de grande porte, em **crédito, antifraude, varejo e indústria**. Hoje atuo como **Tech Lead**: conduzo equipes, defino boas práticas de engenharia, faço mentoria de desenvolvedores e sirvo de elo entre Produto, Negócio e Tecnologia.
+Há mais de 17 anos eu projeto e desenvolvo **sistemas escaláveis e de alta performance** para empresas de grande porte, em **crédito, antifraude, varejo e indústria**. Hoje atuo como **Tech Lead**: conduzo equipes, defino boas práticas de engenharia, faço mentoria de desenvolvedores e sirvo de elo entre Produto, Negócio e Tecnologia.
 
 O que mais me move é transformar um problema complexo em uma arquitetura simples de operar, segura e bem testada. Tenho forte experiência com bancos relacionais e não relacionais, mensageria, cloud, containers e CI/CD, além de uma vivência em web design que me ajuda a pensar em usabilidade e na experiência de quem usa o sistema.
 
 ---
 
-## 💼 Trajetória
-
-| Período | Empresa | Papel e principais entregas |
-|---|---|---|
-| 2025 – hoje | **Invillia** | **Tech Lead / Especialista em Software.** Lidero uma das equipes de Crédito e o time de estabilização, que corrige causa raiz e liga Produto à Sustentação. Liderei a equipe do **Pipeline Padrão** (k8shelper integrado ao Jenkins), que padronizou as entregas do setor, e coordenei ajustes de **IAM no Vault** para dar mais controle e rotação de credenciais AWS |
-| 2024 – 2025 | **Livelo** | **Tech Lead, Segurança contra Fraude.** Responsável pelas soluções de mitigação de risco no fluxo de onboarding, com arquiteturas resilientes, monitoramento contínuo, decisões orientadas por dados e aderência a **LGPD e GDPR**. Também participei da concepção técnica de novas linhas de produto geradoras de receita |
-| 2023 – 2024 | **BEES / Ambev** | **Dev Java Sênior.** APIs de precificação para a América do Sul e um projeto estratégico de **gestão de deals por variante**, que deu mais flexibilidade ao modelo de preços. Stack com Azure, Argo, Kubernetes, RabbitMQ e MongoDB |
-| 2021 – 2023 | **Solutis** | **Dev Java Sênior, com atuação interina como Tech Lead** no projeto de prevenção a fraudes. Conduzi o **Smart Router**, que substituiu o Apigee como API Gateway, e fiz POCs de Airflow, Kong e Cassandra. APIs reativas com WebFlux em AWS EKS e OpenShift |
-| 2019 – 2021 | **Exactaworks** | **Dev Java Sênior.** APIs B2B para a rede de parceiros da B2W, com WebFlux, EventSource, Flyway, MySQL e AWS |
-| 2018 – 2019 | **DXC Technology** | **Dev Java Pleno.** Full Stack no Banco Votorantim (Java, React, Angular e PL/SQL) |
-
----
 
 ## 🛠️ Conhecimentos técnicos
 
